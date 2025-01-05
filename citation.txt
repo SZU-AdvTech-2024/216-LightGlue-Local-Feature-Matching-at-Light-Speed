@@ -1,0 +1,7 @@
+@article{REPO216,
+    author = "Lindenberger, Philipp and Sarlin, Paul-Edouard and Pollefeys, Marc",
+    journal = "IEEE/CVF International Conference on Computer Vision (ICCV)",
+    note = "Available at \url{https://github.com/cvg/LightGlue}",
+    title = "{LightGlue: Local Feature Matching at Light Speed}",
+    year = "2023"
+}
