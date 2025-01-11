@@ -1,0 +1,9 @@
+#torch>=1.9.1
+numpy
+opencv-python
+matplotlib
+#kornia>=0.6.11
+numpy
+tqdm
+torchvision
+thop
